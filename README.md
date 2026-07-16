@@ -33,8 +33,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Hasanraza753509/Daily-LeetCode/tree/master/0078-subsets) |
+| [0704-binary-search](https://github.com/Hasanraza753509/Daily-LeetCode/tree/master/0704-binary-search) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Hasanraza753509/Daily-LeetCode/tree/master/0078-subsets) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/Hasanraza753509/Daily-LeetCode/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
