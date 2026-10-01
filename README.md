@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Hasanraza753509/Daily-LeetCode/tree/master/0200-number-of-islands) |
 | [0419-battleships-in-a-board](https://github.com/Hasanraza753509/Daily-LeetCode/tree/master/0419-battleships-in-a-board) |
 | [0695-max-area-of-island](https://github.com/Hasanraza753509/Daily-LeetCode/tree/master/0695-max-area-of-island) |
+| [0785-is-graph-bipartite](https://github.com/Hasanraza753509/Daily-LeetCode/tree/master/0785-is-graph-bipartite) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Hasanraza753509/Daily-LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Binary Tree
 |  |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Hasanraza753509/Daily-LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Hasanraza753509/Daily-LeetCode/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/Hasanraza753509/Daily-LeetCode/tree/master/0695-max-area-of-island) |
+| [0785-is-graph-bipartite](https://github.com/Hasanraza753509/Daily-LeetCode/tree/master/0785-is-graph-bipartite) |
 | [0994-rotting-oranges](https://github.com/Hasanraza753509/Daily-LeetCode/tree/master/0994-rotting-oranges) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Hasanraza753509/Daily-LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Hasanraza753509/Daily-LeetCode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Hasanraza753509/Daily-LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Hasanraza753509/Daily-LeetCode/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/Hasanraza753509/Daily-LeetCode/tree/master/0695-max-area-of-island) |
+| [0785-is-graph-bipartite](https://github.com/Hasanraza753509/Daily-LeetCode/tree/master/0785-is-graph-bipartite) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Hasanraza753509/Daily-LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Matrix
 |  |
@@ -137,4 +140,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/Hasanraza753509/Daily-LeetCode/tree/master/0994-rotting-oranges) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Hasanraza753509/Daily-LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Hasanraza753509/Daily-LeetCode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
+## Graph Theory
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/Hasanraza753509/Daily-LeetCode/tree/master/0785-is-graph-bipartite) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/Hasanraza753509/Daily-LeetCode/tree/master/0785-is-graph-bipartite) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/Hasanraza753509/Daily-LeetCode/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
