@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Hasanraza753509/Daily-LeetCode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Hasanraza753509/Daily-LeetCode/tree/master/0022-generate-parentheses) |
 | [0402-remove-k-digits](https://github.com/Hasanraza753509/Daily-LeetCode/tree/master/0402-remove-k-digits) |
+| [0953-verifying-an-alien-dictionary](https://github.com/Hasanraza753509/Daily-LeetCode/tree/master/0953-verifying-an-alien-dictionary) |
 ## Stack
 |  |
 | ------- |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Hasanraza753509/Daily-LeetCode/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/Hasanraza753509/Daily-LeetCode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Hasanraza753509/Daily-LeetCode/tree/master/0875-koko-eating-bananas) |
+| [0953-verifying-an-alien-dictionary](https://github.com/Hasanraza753509/Daily-LeetCode/tree/master/0953-verifying-an-alien-dictionary) |
 | [0994-rotting-oranges](https://github.com/Hasanraza753509/Daily-LeetCode/tree/master/0994-rotting-oranges) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Hasanraza753509/Daily-LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Hasanraza753509/Daily-LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -191,4 +193,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Hasanraza753509/Daily-LeetCode/tree/master/0014-longest-common-prefix) |
+## Hash Table
+|  |
+| ------- |
+| [0953-verifying-an-alien-dictionary](https://github.com/Hasanraza753509/Daily-LeetCode/tree/master/0953-verifying-an-alien-dictionary) |
 <!---LeetCode Topics End-->
