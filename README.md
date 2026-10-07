@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Hasanraza753509/Daily-LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Hasanraza753509/Daily-LeetCode/tree/master/0210-course-schedule-ii) |
 | [0419-battleships-in-a-board](https://github.com/Hasanraza753509/Daily-LeetCode/tree/master/0419-battleships-in-a-board) |
+| [0547-number-of-provinces](https://github.com/Hasanraza753509/Daily-LeetCode/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/Hasanraza753509/Daily-LeetCode/tree/master/0695-max-area-of-island) |
 | [0785-is-graph-bipartite](https://github.com/Hasanraza753509/Daily-LeetCode/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Hasanraza753509/Daily-LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Hasanraza753509/Daily-LeetCode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Hasanraza753509/Daily-LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Hasanraza753509/Daily-LeetCode/tree/master/0210-course-schedule-ii) |
+| [0547-number-of-provinces](https://github.com/Hasanraza753509/Daily-LeetCode/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/Hasanraza753509/Daily-LeetCode/tree/master/0695-max-area-of-island) |
 | [0785-is-graph-bipartite](https://github.com/Hasanraza753509/Daily-LeetCode/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Hasanraza753509/Daily-LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/Hasanraza753509/Daily-LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Hasanraza753509/Daily-LeetCode/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/Hasanraza753509/Daily-LeetCode/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/Hasanraza753509/Daily-LeetCode/tree/master/0695-max-area-of-island) |
 | [0785-is-graph-bipartite](https://github.com/Hasanraza753509/Daily-LeetCode/tree/master/0785-is-graph-bipartite) |
 | [1254-number-of-closed-islands](https://github.com/Hasanraza753509/Daily-LeetCode/tree/master/1254-number-of-closed-islands) |
@@ -179,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/Hasanraza753509/Daily-LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Hasanraza753509/Daily-LeetCode/tree/master/0210-course-schedule-ii) |
+| [0547-number-of-provinces](https://github.com/Hasanraza753509/Daily-LeetCode/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/Hasanraza753509/Daily-LeetCode/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Hasanraza753509/Daily-LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/Hasanraza753509/Daily-LeetCode/tree/master/0802-find-eventual-safe-states) |
