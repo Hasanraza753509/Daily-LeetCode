@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/Hasanraza753509/Daily-LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0953-verifying-an-alien-dictionary](https://github.com/Hasanraza753509/Daily-LeetCode/tree/master/0953-verifying-an-alien-dictionary) |
 | [0994-rotting-oranges](https://github.com/Hasanraza753509/Daily-LeetCode/tree/master/0994-rotting-oranges) |
+| [1254-number-of-closed-islands](https://github.com/Hasanraza753509/Daily-LeetCode/tree/master/1254-number-of-closed-islands) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Hasanraza753509/Daily-LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Hasanraza753509/Daily-LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Hasanraza753509/Daily-LeetCode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/Hasanraza753509/Daily-LeetCode/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Hasanraza753509/Daily-LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/Hasanraza753509/Daily-LeetCode/tree/master/0802-find-eventual-safe-states) |
+| [1254-number-of-closed-islands](https://github.com/Hasanraza753509/Daily-LeetCode/tree/master/1254-number-of-closed-islands) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Hasanraza753509/Daily-LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Hasanraza753509/Daily-LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/Hasanraza753509/Daily-LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/Hasanraza753509/Daily-LeetCode/tree/master/0802-find-eventual-safe-states) |
 | [0994-rotting-oranges](https://github.com/Hasanraza753509/Daily-LeetCode/tree/master/0994-rotting-oranges) |
+| [1254-number-of-closed-islands](https://github.com/Hasanraza753509/Daily-LeetCode/tree/master/1254-number-of-closed-islands) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Hasanraza753509/Daily-LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Hasanraza753509/Daily-LeetCode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Hasanraza753509/Daily-LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
@@ -151,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Hasanraza753509/Daily-LeetCode/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/Hasanraza753509/Daily-LeetCode/tree/master/0695-max-area-of-island) |
 | [0785-is-graph-bipartite](https://github.com/Hasanraza753509/Daily-LeetCode/tree/master/0785-is-graph-bipartite) |
+| [1254-number-of-closed-islands](https://github.com/Hasanraza753509/Daily-LeetCode/tree/master/1254-number-of-closed-islands) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Hasanraza753509/Daily-LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Hasanraza753509/Daily-LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Matrix
@@ -162,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0419-battleships-in-a-board](https://github.com/Hasanraza753509/Daily-LeetCode/tree/master/0419-battleships-in-a-board) |
 | [0695-max-area-of-island](https://github.com/Hasanraza753509/Daily-LeetCode/tree/master/0695-max-area-of-island) |
 | [0994-rotting-oranges](https://github.com/Hasanraza753509/Daily-LeetCode/tree/master/0994-rotting-oranges) |
+| [1254-number-of-closed-islands](https://github.com/Hasanraza753509/Daily-LeetCode/tree/master/1254-number-of-closed-islands) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Hasanraza753509/Daily-LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Hasanraza753509/Daily-LeetCode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 ## Graph Theory
