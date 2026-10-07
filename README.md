@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/Hasanraza753509/Daily-LeetCode/tree/master/1254-number-of-closed-islands) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Hasanraza753509/Daily-LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Hasanraza753509/Daily-LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1905-count-sub-islands](https://github.com/Hasanraza753509/Daily-LeetCode/tree/master/1905-count-sub-islands) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Hasanraza753509/Daily-LeetCode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Hasanraza753509/Daily-LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Bit Manipulation
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0802-find-eventual-safe-states](https://github.com/Hasanraza753509/Daily-LeetCode/tree/master/0802-find-eventual-safe-states) |
 | [1254-number-of-closed-islands](https://github.com/Hasanraza753509/Daily-LeetCode/tree/master/1254-number-of-closed-islands) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Hasanraza753509/Daily-LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1905-count-sub-islands](https://github.com/Hasanraza753509/Daily-LeetCode/tree/master/1905-count-sub-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Hasanraza753509/Daily-LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/Hasanraza753509/Daily-LeetCode/tree/master/0994-rotting-oranges) |
 | [1254-number-of-closed-islands](https://github.com/Hasanraza753509/Daily-LeetCode/tree/master/1254-number-of-closed-islands) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Hasanraza753509/Daily-LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1905-count-sub-islands](https://github.com/Hasanraza753509/Daily-LeetCode/tree/master/1905-count-sub-islands) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Hasanraza753509/Daily-LeetCode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Hasanraza753509/Daily-LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Math
@@ -156,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/Hasanraza753509/Daily-LeetCode/tree/master/0785-is-graph-bipartite) |
 | [1254-number-of-closed-islands](https://github.com/Hasanraza753509/Daily-LeetCode/tree/master/1254-number-of-closed-islands) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Hasanraza753509/Daily-LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1905-count-sub-islands](https://github.com/Hasanraza753509/Daily-LeetCode/tree/master/1905-count-sub-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Hasanraza753509/Daily-LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Matrix
 |  |
@@ -168,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/Hasanraza753509/Daily-LeetCode/tree/master/0994-rotting-oranges) |
 | [1254-number-of-closed-islands](https://github.com/Hasanraza753509/Daily-LeetCode/tree/master/1254-number-of-closed-islands) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Hasanraza753509/Daily-LeetCode/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1905-count-sub-islands](https://github.com/Hasanraza753509/Daily-LeetCode/tree/master/1905-count-sub-islands) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Hasanraza753509/Daily-LeetCode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 ## Graph Theory
 |  |
