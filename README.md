@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/Hasanraza753509/Daily-LeetCode/tree/master/0127-word-ladder) |
 | [0402-remove-k-digits](https://github.com/Hasanraza753509/Daily-LeetCode/tree/master/0402-remove-k-digits) |
 | [0953-verifying-an-alien-dictionary](https://github.com/Hasanraza753509/Daily-LeetCode/tree/master/0953-verifying-an-alien-dictionary) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Hasanraza753509/Daily-LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Stack
 |  |
 | ------- |
@@ -20,10 +21,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Hasanraza753509/Daily-LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Hasanraza753509/Daily-LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0402-remove-k-digits](https://github.com/Hasanraza753509/Daily-LeetCode/tree/master/0402-remove-k-digits) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Hasanraza753509/Daily-LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Greedy
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/Hasanraza753509/Daily-LeetCode/tree/master/0402-remove-k-digits) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Hasanraza753509/Daily-LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -226,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Hasanraza753509/Daily-LeetCode/tree/master/0020-valid-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Hasanraza753509/Daily-LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Trie
 |  |
 | ------- |
