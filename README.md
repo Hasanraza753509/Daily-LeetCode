@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Hasanraza753509/Daily-LeetCode/tree/master/0022-generate-parentheses) |
 | [0064-minimum-path-sum](https://github.com/Hasanraza753509/Daily-LeetCode/tree/master/0064-minimum-path-sum) |
+| [0416-partition-equal-subset-sum](https://github.com/Hasanraza753509/Daily-LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Hasanraza753509/Daily-LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Hasanraza753509/Daily-LeetCode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Backtracking
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Hasanraza753509/Daily-LeetCode/tree/master/0130-surrounded-regions) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Hasanraza753509/Daily-LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0200-number-of-islands](https://github.com/Hasanraza753509/Daily-LeetCode/tree/master/0200-number-of-islands) |
+| [0416-partition-equal-subset-sum](https://github.com/Hasanraza753509/Daily-LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0419-battleships-in-a-board](https://github.com/Hasanraza753509/Daily-LeetCode/tree/master/0419-battleships-in-a-board) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Hasanraza753509/Daily-LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0695-max-area-of-island](https://github.com/Hasanraza753509/Daily-LeetCode/tree/master/0695-max-area-of-island) |
@@ -264,4 +266,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1192-critical-connections-in-a-network](https://github.com/Hasanraza753509/Daily-LeetCode/tree/master/1192-critical-connections-in-a-network) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/Hasanraza753509/Daily-LeetCode/tree/master/0416-partition-equal-subset-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/Hasanraza753509/Daily-LeetCode/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
