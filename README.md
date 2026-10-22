@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Hasanraza753509/Daily-LeetCode/tree/master/0007-reverse-integer) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Hasanraza753509/Daily-LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Number Theory
 |  |
