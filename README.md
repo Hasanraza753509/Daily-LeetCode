@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Hasanraza753509/Daily-LeetCode/tree/master/0022-generate-parentheses) |
 | [0127-word-ladder](https://github.com/Hasanraza753509/Daily-LeetCode/tree/master/0127-word-ladder) |
 | [0402-remove-k-digits](https://github.com/Hasanraza753509/Daily-LeetCode/tree/master/0402-remove-k-digits) |
+| [0516-longest-palindromic-subsequence](https://github.com/Hasanraza753509/Daily-LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0953-verifying-an-alien-dictionary](https://github.com/Hasanraza753509/Daily-LeetCode/tree/master/0953-verifying-an-alien-dictionary) |
 | [1143-longest-common-subsequence](https://github.com/Hasanraza753509/Daily-LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Hasanraza753509/Daily-LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Hasanraza753509/Daily-LeetCode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Hasanraza753509/Daily-LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Hasanraza753509/Daily-LeetCode/tree/master/0494-target-sum) |
+| [0516-longest-palindromic-subsequence](https://github.com/Hasanraza753509/Daily-LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Hasanraza753509/Daily-LeetCode/tree/master/0518-coin-change-ii) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Hasanraza753509/Daily-LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1143-longest-common-subsequence](https://github.com/Hasanraza753509/Daily-LeetCode/tree/master/1143-longest-common-subsequence) |
