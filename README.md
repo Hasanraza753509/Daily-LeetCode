@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Hasanraza753509/Daily-LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Hasanraza753509/Daily-LeetCode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Hasanraza753509/Daily-LeetCode/tree/master/0022-generate-parentheses) |
+| [0044-wildcard-matching](https://github.com/Hasanraza753509/Daily-LeetCode/tree/master/0044-wildcard-matching) |
 | [0115-distinct-subsequences](https://github.com/Hasanraza753509/Daily-LeetCode/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/Hasanraza753509/Daily-LeetCode/tree/master/0127-word-ladder) |
 | [0402-remove-k-digits](https://github.com/Hasanraza753509/Daily-LeetCode/tree/master/0402-remove-k-digits) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/Hasanraza753509/Daily-LeetCode/tree/master/0044-wildcard-matching) |
 | [0402-remove-k-digits](https://github.com/Hasanraza753509/Daily-LeetCode/tree/master/0402-remove-k-digits) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Hasanraza753509/Daily-LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Monotonic Stack
@@ -41,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Hasanraza753509/Daily-LeetCode/tree/master/0022-generate-parentheses) |
+| [0044-wildcard-matching](https://github.com/Hasanraza753509/Daily-LeetCode/tree/master/0044-wildcard-matching) |
 | [0064-minimum-path-sum](https://github.com/Hasanraza753509/Daily-LeetCode/tree/master/0064-minimum-path-sum) |
 | [0115-distinct-subsequences](https://github.com/Hasanraza753509/Daily-LeetCode/tree/master/0115-distinct-subsequences) |
 | [0322-coin-change](https://github.com/Hasanraza753509/Daily-LeetCode/tree/master/0322-coin-change) |
@@ -311,4 +314,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/Hasanraza753509/Daily-LeetCode/tree/master/0583-delete-operation-for-two-strings) |
 | [1092-shortest-common-supersequence](https://github.com/Hasanraza753509/Daily-LeetCode/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Hasanraza753509/Daily-LeetCode/tree/master/1143-longest-common-subsequence) |
+## Recursion
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/Hasanraza753509/Daily-LeetCode/tree/master/0044-wildcard-matching) |
 <!---LeetCode Topics End-->
