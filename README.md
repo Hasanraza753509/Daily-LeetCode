@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/Hasanraza753509/Daily-LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0953-verifying-an-alien-dictionary](https://github.com/Hasanraza753509/Daily-LeetCode/tree/master/0953-verifying-an-alien-dictionary) |
 | [1143-longest-common-subsequence](https://github.com/Hasanraza753509/Daily-LeetCode/tree/master/1143-longest-common-subsequence) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Hasanraza753509/Daily-LeetCode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Hasanraza753509/Daily-LeetCode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Stack
 |  |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/Hasanraza753509/Daily-LeetCode/tree/master/0518-coin-change-ii) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Hasanraza753509/Daily-LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1143-longest-common-subsequence](https://github.com/Hasanraza753509/Daily-LeetCode/tree/master/1143-longest-common-subsequence) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Hasanraza753509/Daily-LeetCode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Hasanraza753509/Daily-LeetCode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Backtracking
 |  |
